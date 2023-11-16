@@ -1,0 +1,94 @@
+{
+  "destination":{
+    "1":"Delhi",
+    "2":"Mumbai",
+    "3":"Chennai",
+    "4":"Kashmir"
+  },
+
+
+  "Delhi": {
+    "1":"Red Fort",
+    "2":"Delhi National Park",
+    "3":"Hotels in Delhi"
+  },
+  "Red Fort": {
+    "1": "Place marked successfully"
+  },
+
+  "Delhi National Park": {
+    "1": "Place marked successfully"
+  },
+  "Hotels in Delhi":{
+    "Hotel1":"Hotel A",
+    "Hotel2":"Hotel B"
+  },
+
+
+  "Mumbai": {
+    "1":"Mumbai Port",
+    "2":"Jawarhalal Nehru Port",
+    "3":"Hotel in Mumbai",
+    "4": "Gateway of India"
+  },
+  "Mumbai Port":{
+    "1": "Place marked successfully"
+  },
+
+  "Jawarhalal Nehru Port":{
+    "1": "Place marked successfully"
+  },
+
+  "Hotel in Mumbai":{
+    "Hotel1":"Hotel X",
+    "Hotel2":"Hotel Y"},
+
+  "Gateway of India": {
+    "1": "Place marked successfully"
+  },
+
+
+  "Chennai": {
+    "1":"Marina Beach",
+    "2":"Vandalore Zoo",
+    "3":"Malls",
+    "4": "Hotels in chennai"
+  },
+
+  "Marina Beach":{
+    "1": "Place marked successfully"
+  },
+
+  "Vandalore Zoo":{
+    "1": "Place marked successfully"
+  },
+
+  "Hotel in chennai":{
+    "Hotel1":"Hotel M",
+    "Hotel2":"Hotel N"
+  },
+  "Malls": {
+    "Mall1": "Abirami Mall",
+    "Mall2": "Pheonix Mall",
+    "Mall3": "Vijaya Mall"
+  },
+
+  "Kashmir": {
+    "1":"Line Of Control",
+    "2":"Line Of Actual Control",
+    "3":"Hotel in Kashmir"
+  },
+  "Line Of Control":{
+    "1": "Place marked successfully"
+  },
+
+  "Line Of Actual Control":{
+    "1": "Place marked successfully"
+  },
+
+  "Hotel in Kashmir":{
+    "Hotel1":"Hotel P",
+    "Hotel2":"Hotel Q"
+  }
+
+}
