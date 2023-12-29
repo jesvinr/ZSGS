@@ -1,0 +1,18 @@
+Bus booking features:
+seats 18 sleeper and 28 setters
+sleeper cost =>1000 (single)
+sleeper cost => 800 (double)
+sitter cost => 500
+a guys can chose no of seats in a single ticket.
+
+DB:
+queue => for number of seats
+Map => for all entry [id,List => cost,]
+
+structure:
+book ticket
+show required tickets details.
+Booked seats
+Empty seats
+cancel ticket
+All tickets
